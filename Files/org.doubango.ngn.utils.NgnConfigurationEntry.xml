@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+<string name="NETWORK_TYPE.org.doubango.ngn.utils.NgnConfigurationEntry">wifi</string>
+<boolean name="NETWORK_USE_WIFI.org.doubango.ngn.utils.NgnConfigurationEntry" value="true" />
+<string name="NETWORK_NETMASK.org.doubango.ngn.utils.NgnConfigurationEntry"></string>
+<string name="NETWORK_GATEWAY.org.doubango.ngn.utils.NgnConfigurationEntry"></string>
+<string name="NETWORK_DNS1.org.doubango.ngn.utils.NgnConfigurationEntry"></string>
+<string name="NETWORK_DNS2.org.doubango.ngn.utils.NgnConfigurationEntry"></string>
+<boolean name="NETWORK_USE_ETHERNET.org.doubango.ngn.utils.NgnConfigurationEntry" value="false" />
+<boolean name="NETWORK_USE_3G.org.doubango.ngn.utils.NgnConfigurationEntry" value="false" />
+<int name="IDENTITY_SPEAKER_VOLUME_CONTROL.org.doubango.ngn.utils.NgnConfigurationEntry" value="11" />
+<int name="IDENTITY_CALL_VOLUME_CONTROL.org.doubango.ngn.utils.NgnConfigurationEntry" value="4" />
+<string name="NETWORK_SECURITY.org.doubango.ngn.utils.NgnConfigurationEntry">Open</string>
+<boolean name="FLAG_DEVICE_AP_MODE.org.doubango.ngn.utils.NgnConfigurationEntry" value="false" />
+<string name="NETWORK_SSID.org.doubango.ngn.utils.NgnConfigurationEntry">platformers</string>
+<string name="NETWORK_IP_SETTINGS.org.doubango.ngn.utils.NgnConfigurationEntry">dhcp</string>
+<string name="NETWORK_PASSWORD.org.doubango.ngn.utils.NgnConfigurationEntry">kermith&lt;3</string>
+<string name="NETWORK_IP_ADDRESS.org.doubango.ngn.utils.NgnConfigurationEntry"></string>
+</map>

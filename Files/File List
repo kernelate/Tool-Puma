@@ -1,0 +1,9 @@
+Project DEA (sun)
+
+
+List of File to be included:
+1. build.prop       					- device feature should be added in this file
+2. Texttospeech.apk					- This is use to find the device client
+3. init.rc						- It is use to run the testfarm in bootup
+4. wpa_supplicant.conf 					- This is use for the configuration of wifi (default SSID: TESTFARM)
+5. org.doubango.ngn.utils.NgnConfigurationEntry.xml	- This is use to configure the network of svtalk (default SSID: TESTFARM)
